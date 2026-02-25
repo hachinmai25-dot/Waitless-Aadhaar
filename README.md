@@ -94,7 +94,7 @@ waitless-aadhaar/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/waitless-aadhaar.git
+git clone https://github.com/hachinmai25-dot/waitless-aadhaar.git
 cd waitless-aadhaar
 ```
 
