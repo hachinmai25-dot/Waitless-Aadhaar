@@ -1,1 +1,18 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.0",
+    "axios": "^1.4.0"
+  }
+}
+```
 
+**`.env.example`**
+```
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=yourpassword
+DB_NAME=waitless_aadhaar
+SECRET_KEY=your-secret-key
+GOOGLE_MAPS_API=your-google-maps-key
